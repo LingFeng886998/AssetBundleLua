@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1133609487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 099478c584236f3a9eff843c5d415a02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/reward/reward_28.png
+- Assets/Art/UI/reward/reward_19.png
+- Assets/Art/UI/reward/reward_14.png
+- Assets/Art/UI/reward/reward_33.png
+- Assets/Art/UI/reward/reward_21.png
+- Assets/Art/UI/reward/reward_01.png
+- Assets/Art/UI/reward/reward_20.png
+- Assets/Art/UI/reward/reward_23.png
+- Assets/Art/UI/reward/reward_15.png
+- Assets/Art/UI/reward/reward_34.png
+- Assets/Art/UI/reward/reward_18.png
+- Assets/Art/UI/reward/reward_32.png
+- Assets/Art/UI/reward/reward_08.png
+- Assets/Art/UI/reward/reward_05.png
+- Assets/Art/UI/reward/reward_07.png
+- Assets/Art/UI/reward/reward_04.png
+- Assets/Art/UI/reward/reward_12.png
+- Assets/Art/UI/reward/reward_24.png
+- Assets/Art/UI/reward/reward_27.png
+- Assets/Art/UI/reward/reward_25.png
+- Assets/Art/UI/reward/reward_02.png
+- Assets/Art/UI/reward/reward_10.png
+- Assets/Art/UI/reward/reward_29.png
+- Assets/Art/UI/reward/reward_26.png
+- Assets/Art/UI/reward/reward_13.png
+- Assets/Art/UI/reward/reward_11.png
+- Assets/Art/UI/reward/reward_09.png
+- Assets/Art/UI/reward/reward_16.png
+- Assets/Art/UI/reward/reward_22.png
+- Assets/Art/UI/reward/reward_17.png
+- Assets/Art/UI/reward/reward_06.png
+- Assets/Art/UI/reward/reward_31.png
+- Assets/Art/UI/reward/reward_03.png
+- Assets/Art/UI/reward/reward_30.png
+Dependencies: []

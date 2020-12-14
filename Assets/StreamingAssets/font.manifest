@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1291310199
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54f2a61c2305391abb103f69d92e29fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da408b5dcaec04fcfcfa0e4f4f4e9c31
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Font/special.ttf
+Dependencies: []

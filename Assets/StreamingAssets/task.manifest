@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2213112718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a6438904aee86b1c0e2ed2d0a0215a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1f446a70d979350681ddaf0e446b1e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/task/task_12.png
+- Assets/Art/UI/task/task_15.png
+- Assets/Art/UI/task/task_10.PNG
+- Assets/Art/UI/task/task_11.png
+- Assets/Art/UI/task/task_04.png
+- Assets/Art/UI/task/task_02.png
+- Assets/Art/Prefabs/Task/TaskView.prefab
+- Assets/Art/UI/task/task_07.PNG
+- Assets/Art/UI/task/task_03.png
+- Assets/Art/UI/task/task_16.png
+- Assets/Art/UI/task/task_09.PNG
+- Assets/Art/UI/task/task_01.png
+- Assets/Art/UI/task/task_06.png
+- Assets/Art/UI/task/task_14.png
+- Assets/Art/UI/task/task_08.png
+- Assets/Art/UI/task/task_13.PNG
+- Assets/Art/UI/task/task_05.png
+- Assets/Art/UI/task/task_17.png
+Dependencies:
+- F:/unity/UnityLua/UnityLua/AssetBundle/StreamingAssets/common
+- F:/unity/UnityLua/UnityLua/AssetBundle/StreamingAssets/font

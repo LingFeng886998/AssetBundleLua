@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3897571465
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common
+      Dependencies: {}
+    Info_1:
+      Name: task
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: font
+    Info_2:
+      Name: audio
+      Dependencies: {}
+    Info_3:
+      Name: font
+      Dependencies: {}
+    Info_4:
+      Name: loading
+      Dependencies:
+        Dependency_0: font
+    Info_5:
+      Name: main
+      Dependencies:
+        Dependency_0: texture
+    Info_6:
+      Name: scenes
+      Dependencies:
+        Dependency_0: font
+        Dependency_1: loading
+        Dependency_2: main
+        Dependency_3: texture
+    Info_7:
+      Name: texture
+      Dependencies: {}
+    Info_8:
+      Name: reward
+      Dependencies: {}
+    Info_9:
+      Name: rolehead
+      Dependencies: {}

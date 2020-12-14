@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2186360004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d98b2f1a491c004469885d6db2cb0863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e025248a6aa81647bb91dd99dc6fe621
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/loading/loading_35.png
+- Assets/Art/UI/loading/loading_33.png
+- Assets/Art/UI/loading/loading_13.png
+- Assets/Art/UI/loading/loading_38.png
+- Assets/Art/UI/loading/loading_21.png
+- Assets/Art/UI/loading/loading_12.png
+- Assets/Art/UI/loading/loading_04.png
+- Assets/Art/UI/loading/loading_19.png
+- Assets/Art/UI/loading/loading_36.png
+- Assets/Art/UI/loading/loading_31.png
+- Assets/Art/UI/loading/loading_40.png
+- Assets/Art/UI/loading/loading_15.png
+- Assets/Art/UI/loading/loading_42.png
+- Assets/Art/UI/loading/loading_28.png
+- Assets/Art/UI/loading/loading_03.png
+- Assets/Art/UI/loading/loading_30.png
+- Assets/Art/UI/loading/loading_23.png
+- Assets/Art/UI/loading/loading_25.png
+- Assets/Art/UI/loading/loading_27.png
+- Assets/Art/UI/loading/loading_26.png
+- Assets/Art/UI/loading/loading_14.png
+- Assets/Art/UI/loading/loading_41.png
+- Assets/Art/UI/loading/loading_06.png
+- Assets/Art/UI/loading/loading_16.png
+- Assets/Art/UI/loading/loading_17.png
+- Assets/Art/UI/loading/loading_02.png
+- Assets/Art/UI/loading/loading_20.png
+- Assets/Art/UI/loading/loading_37.png
+- Assets/Art/UI/loading/loading_05.png
+- Assets/Art/UI/loading/loading_07.png
+- Assets/Art/UI/loading/loading_34.png
+- Assets/Art/UI/loading/loading_39.png
+- Assets/Art/UI/loading/loading_18.png
+- Assets/Art/Prefabs/Loading/RegisterView.prefab
+- Assets/Art/UI/loading/loading_32.png
+- Assets/Art/UI/loading/loading_11.png
+- Assets/Art/UI/loading/loading_10.png
+- Assets/Art/UI/loading/loading_24.png
+- Assets/Art/UI/loading/loading_29.png
+- Assets/Art/UI/loading/loading_08.png
+- Assets/Art/Prefabs/Loading/LoginView.prefab
+- Assets/Art/UI/loading/loading_01.png
+Dependencies:
+- F:/unity/UnityLua/UnityLua/AssetBundle/StreamingAssets/font

@@ -1,0 +1,6 @@
+F:\unity\UnityLua\UnityLua\General\Tools\FilesSignature.exe
+F:\unity\UnityLua\UnityLua\General\Tools\FilesSignature.pdb
+F:\unity\UnityLua\UnityLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.csprojAssemblyReference.cache
+F:\unity\UnityLua\UnityLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.csproj.CoreCompileInputs.cache
+F:\unity\UnityLua\UnityLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.exe
+F:\unity\UnityLua\UnityLua\General\vs2013\obj\Any CPU\Debug\FilesSignature\FilesSignature.pdb

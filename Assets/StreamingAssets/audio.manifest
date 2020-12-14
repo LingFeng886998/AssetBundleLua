@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4101402189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 589b049a3b7e7d0c87f0eea135650a4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Audio/skill1.mp3
+- Assets/Art/Audio/bg-choice.mp3
+- Assets/Art/Audio/Hurt.wav
+- Assets/Art/Audio/Bg-transcript.mp3
+- Assets/Art/Audio/attack1.mp3
+- Assets/Art/Audio/bird.wav
+- Assets/Art/Audio/ice_attack.wav
+- Assets/Art/Audio/skill3_2.wav
+- Assets/Art/Audio/skill3_3.wav
+- Assets/Art/Audio/skill3_4.wav
+- Assets/Art/Audio/skill3_1.wav
+- Assets/Art/Audio/attack3.mp3
+- Assets/Art/Audio/attack2.mp3
+- Assets/Art/Audio/bg-city.mp3
+- Assets/Art/Audio/Skill.mp3
+Dependencies: []

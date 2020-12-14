@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3057490661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04ca856a274c8d4a052388d98f2c6aef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e66127a6040c63dea248c443696cdf1c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UI/main/main_04.png
+- Assets/Art/UI/main/main_08.png
+- Assets/Art/UI/main/mainui_icon_guild.png
+- Assets/Art/UI/main/mainui_btn_bag.png
+- Assets/Art/UI/main/mainui_autofight.png
+- Assets/Art/UI/main/main_02.png
+- Assets/Art/Prefabs/Main/MainView.prefab
+- Assets/Art/UI/main/main_03.png
+- Assets/Art/UI/main/main_ui_setting.png
+- Assets/Art/UI/main/main_01.png
+- Assets/Art/UI/main/main_12.png
+- Assets/Art/UI/main/main_10.png
+- Assets/Art/UI/main/mainui_btn_jump.png
+- Assets/Art/UI/main/mainui_icon_skill.png
+- Assets/Art/UI/main/main_13.png
+- Assets/Art/UI/main/mainui_chat.png
+- Assets/Art/UI/main/main_09.png
+- Assets/Art/UI/main/mainui_icon_role.png
+- Assets/Art/UI/main/main_06.png
+- Assets/Art/UI/main/main_05.PNG
+- Assets/Art/UI/main/main_07.PNG
+- Assets/Art/UI/main/main_ui_gm.png
+- Assets/Art/UI/main/mainui_icon_equip.png
+Dependencies:
+- F:/unity/UnityLua/UnityLua/AssetBundle/StreamingAssets/texture
